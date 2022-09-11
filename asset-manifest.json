@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/typespeed/static/js/main.306c1a58.js",
+    "index.html": "/typespeed/index.html",
+    "main.306c1a58.js.map": "/typespeed/static/js/main.306c1a58.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.306c1a58.js"
+  ]
+}
