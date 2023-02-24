@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/typespeed/static/css/main.cbaf164c.css",
     "main.js": "/typespeed/static/js/main.306c1a58.js",
     "index.html": "/typespeed/index.html",
+    "main.cbaf164c.css.map": "/typespeed/static/css/main.cbaf164c.css.map",
     "main.306c1a58.js.map": "/typespeed/static/js/main.306c1a58.js.map"
   },
   "entrypoints": [
+    "static/css/main.cbaf164c.css",
     "static/js/main.306c1a58.js"
   ]
 }
